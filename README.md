@@ -43,3 +43,11 @@
 
 # //Entradas = INPUT
 # //Salidas = OUTPUT
+
+
+//Ejemplo
+if(true && false){
+console.log("es true")
+} else{
+console.log("es false")
+}
